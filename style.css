@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+main{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items:center;
+    height : 100vh;
+}
+button{
+    padding:14px 40px;
+    margin:5px 20px;
+}
+button:hover{
+    background-color:black;
+    color:white;
+}
+h3{
+    font-size :40px;
+}
+#final-value{
+    font-size:40px;
+}
